@@ -1,0 +1,65 @@
+[
+    {
+        "url": "https://github.com/chhesnin/Tshapeof-application-products/blob/main/img1.jpg",
+        "id": "1",
+        "name": "132系列 - 中桶盤",
+        "price": 880,
+        "isFavorite": false
+    },
+    {
+        "url": "https://github.com/chhesnin/Tshapeof-application-products/blob/main/img2.jpg",
+        "id": "2",
+        "name": "132系列 - 中平盤",
+        "price": 750,
+        "isFavorite": false
+    },
+    {
+        "url": "https://github.com/chhesnin/Tshapeof-application-products/blob/main/img3.jpg",
+        "id": "3",
+        "name": "132系列 - 雙耳杯",
+        "price": 880,
+        "isFavorite": false
+    },
+    {
+        "url": "https://github.com/chhesnin/Tshapeof-application-products/blob/main/img4.jpg",
+        "id": "4",
+        "name": "222系列 - 斗笠碗",
+        "price": 780,
+        "isFavorite": false
+    },
+    {
+        "url": "https://github.com/chhesnin/Tshapeof-application-products/blob/main/img5.jpg",
+        "id": "5",
+        "name": "222系列 - 小桶盤",
+        "price": 680,
+        "isFavorite": false
+    },
+    {
+        "url": "https://github.com/chhesnin/Tshapeof-application-products/blob/main/img6.jpg",
+        "id": "6",
+        "name": "222系列 - 斜桶杯",
+        "price": 850,
+        "isFavorite": false
+    },
+    {
+        "url": "https://github.com/chhesnin/Tshapeof-application-products/blob/main/img7.jpg",
+        "id": "7",
+        "name": "518系列 - 咖啡杯",
+        "price": 650,
+        "isFavorite": false
+    },
+    {
+        "url": "https://github.com/chhesnin/Tshapeof-application-products/blob/main/img8.jpg",
+        "id": "8",
+        "name": "518系列 - 寬口碗",
+        "price": 700,
+        "isFavorite": false
+    },
+    {
+        "url": "https://github.com/chhesnin/Tshapeof-application-products/blob/main/img9.jpg",
+        "id": "9",
+        "name": "518系列 - 大桶盤",
+        "price": 1080,
+        "isFavorite": false
+    }
+]
